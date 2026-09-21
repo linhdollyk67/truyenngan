@@ -1,0 +1,4 @@
+- Mọi chi tiết (tên, tuổi, thời gian, trạng thái mối quan hệ, bí mật, thương tích/thời gian hồi phục, tình trạng tài chính, thời tiết/mùa, địa điểm, etc.) phải nhất quán giữa các chương.
+- Luôn kiểm tra `MEMORY/story_bible.md`, `MEMORY/timeline.md` và `MEMORY/unresolved_threads.md` trước khi viết tiếp.
+- Nếu chương 2 nhân vật chưa biết điều X, chương 5 không được hành động như đã biết nếu không có sự kiện Reveal được thể hiện rõ trong draft (không chỉ trong outline).
+- Mỗi manh mối/bí mật được cài cắm (kể cả những chi tiết nhỏ như một cuộc gọi điện thoại, một tin nhắn lạ) phải được ghi vào `MEMORY/unresolved_threads.md` ngay khi xuất hiện.\n

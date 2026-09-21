@@ -1,0 +1,3 @@
+- Consistency > Quantity
+- Story quality > Word count
+- Emotional payoff > Unnecessary drama\n
