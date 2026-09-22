@@ -20,17 +20,17 @@ Phó Tư Hàn.
 
 Anh về nước từ khi nào? Không phải anh đang ở Anh sao?
 
-Hàng trăm câu hỏi lướt qua trong tâm trí Sơ Hạ, nhưng cơ thể cô lại phản ứng bằng một cơn run rẩy không thể kiểm soát. Đầu ngón tay cô lạnh buốt. Cô cắn chặt môi dưới để ngăn mình phát ra tiếng nấc, cố gắng giữ thăng bằng đặt hai tách cà phê xuống bàn. 
-
-"Sếp Phó, anh nếm thử đi. Quán này tuy nhỏ nhưng hạt cà phê được nhập khẩu trực tiếp, hợp khẩu vị của tôi lắm." Sếp Lâm hồ hởi cười nói, hoàn toàn không nhận ra bầu không khí quỷ dị giữa hai người trẻ tuổi.
+Hàng trăm câu hỏi lướt qua trong tâm trí Sơ Hạ, nhưng cơ thể cô lại phản ứng bằng một cơn run rẩy không thể kiểm soát. Đầu ngón tay cô lạnh buốt. Cô cố gắng giữ bình tĩnh đặt hai tách cà phê xuống bàn. 
 
 Ngón tay đang gõ nhịp trên mặt bàn của Phó Tư Hàn khẽ khựng lại một nhịp. Đáy mắt anh xẹt qua một tia chấn động, nhưng rất nhanh, cảm xúc ấy đã bị sự lạnh lùng và trào phúng tàn nhẫn che lấp. Anh lười biếng thu tầm mắt lại, vươn tay nhấc tách Espresso lên, hoàn toàn coi cô như một kẻ phục vụ thấp kém không đáng bận tâm.
+
+"Sếp Phó, anh nếm thử đi. Quán này tuy nhỏ nhưng hạt cà phê được nhập khẩu trực tiếp, hợp khẩu vị của tôi lắm." Sếp Lâm hồ hởi cười nói, hoàn toàn không nhận ra bầu không khí quỷ dị giữa hai người trẻ tuổi.
 
 Sơ Hạ nín thở, lùi lại định quay bước rời đi.
 
 Nhưng Phó Tư Hàn chỉ đưa ly cà phê lên môi, chưa kịp chạm vào đã khẽ nhíu mày. Anh ném phịch tách sứ xuống chiếc đĩa lót, tạo ra một tiếng động chói tai khiến sếp Lâm giật bắn mình.
 
-Ánh mắt lạnh lẽo của anh lướt qua bộ đồng phục rẻ tiền của cô, khóe môi nhếch lên một nụ cười khẩy mỉa mai. 
+Ánh mắt lạnh lẽo của anh lướt qua cô, khóe môi nhếch lên một nụ cười khẩy mỉa mai. 
 
 "Thứ nước nhạt nhẽo, rẻ tiền này..." Chất giọng lạnh lẽo, đầy trào phúng vang lên. Anh dời tầm mắt sang vị đối tác đang đổ mồ hôi hột, chậm rãi bồi thêm: "...Khẩu vị của sếp Lâm cũng thật đặc biệt."
 
@@ -62,9 +62,9 @@ Sơ Hạ cắn chặt răng, từ từ khuỵu gối xuống mặt sàn gỗ, c�
 
 Đúng lúc này, Phó Tư Hàn chậm rãi đứng dậy. Sếp Lâm thấy thế cũng vội vã đứng lên theo: "Phó tổng, chuyện hợp đồng..."
 
-Bỏ mặc đối tác đang lúng túng, Phó Tư Hàn không rời đi ngay. Bóng đen của anh che khuất ánh đèn chiếu lên người Sơ Hạ. Anh hơi cúi người xuống, vờ như đang chỉnh lại vạt áo vest, nhưng thực chất là ghé sát vào tai cô. Mùi gỗ đàn hương quen thuộc xộc thẳng vào cánh mũi Sơ Hạ, mang theo cả sự nghẹt thở của quá khứ.
+Bỏ mặc đối tác đang lúng túng, Phó Tư Hàn không rời đi ngay. Bóng đen của anh che khuất ánh đèn chiếu lên người Sơ Hạ. Anh hơi cúi người xuống, ghé sát vào tai cô. Mùi gỗ đàn hương quen thuộc xộc thẳng vào cánh mũi Sơ Hạ, mang theo cả sự nghẹt thở của quá khứ.
 
-Một chất giọng khàn đặc, đè nén sự căm phẫn tột độ và nọc độc của 5 năm hận thù vang lên, chỉ đủ cho hai người nghe thấy:
+Một chất giọng khàn đặc, đè nén sự căm phẫn tột độ của 5 năm hận thù vang lên, chỉ đủ cho hai người nghe thấy:
 
 "5 năm qua, cô chỉ học được cách quỳ gối xin tiền thôi sao?"
 

@@ -22,8 +22,6 @@ Một luồng khí lạnh lẽo ngột ngạt ập tới. Phó Tư Hàn bước 
 
 Anh ta vẫn mặc bộ vest xám tro cắt may tỉ mỉ, nhưng chiếc cà vạt đã bị kéo lỏng ra một cách thô bạo. Dưới ánh đèn đường vàng vọt, sườn mặt góc cạnh của anh ta căng cứng, đôi mắt đen thẳm găm chặt vào chiếc áo khoác đang cầm trên tay Lục Ngôn. Một cỗ sát khí cuồn cuộn dâng lên, khiến không khí xung quanh dường như bị bóp nghẹt.
 
-Anh ta chưa hề rời đi. Suốt mấy tiếng đồng hồ qua, chiếc xe này vẫn đỗ trong bóng tối cách đó không xa, và anh ta đã chứng kiến tất cả.
-
 "Lên xe." Hai chữ bật ra từ kẽ răng, lạnh lẽo và không cho phép từ chối.
 
 Lục Ngôn nhíu mày, bước lên chắn trước mặt Sơ Hạ. "Anh là ai? Muốn làm gì..."
@@ -36,13 +34,13 @@ Sự phản kháng của cô như đổ thêm dầu vào ngọn lửa điên cu�
 
 Mọi thứ diễn ra quá nhanh, khi Lục Ngôn kịp hoàn hồn đập cửa kính thì chiếc Rolls-Royce đã gầm lên như một con dã thú, xé toạc màn mưa lao vút đi, bỏ lại anh đứng sững sờ giữa đường.
 
-Trong không gian chật hẹp và kín mít của chiếc xe sang, mùi hương gỗ đàn hương đặc quánh bủa vây lấy Sơ Hạ, khiến cô nghẹt thở. Tốc độ xe tăng lên chóng mặt, những cột đèn đường lao vút qua cửa kính tạo thành những vệt sáng lóa mắt.
+Trong không gian chật hẹp và kín mít của chiếc xe sang, mùi hương gỗ đàn hương bủa vây lấy Sơ Hạ, khiến cô nghẹt thở. Tốc độ xe tăng lên chóng mặt, những cột đèn đường lao vút qua cửa kính tạo thành những vệt sáng lóa mắt.
 
 "Phó Tư Hàn, anh điên rồi! Dừng xe lại!" Sơ Hạ nắm chặt dây an toàn, giọng nói run rẩy vì sợ hãi.
 
 Phó Tư Hàn đạp mạnh chân ga. Bàn tay nắm vô lăng của anh nổi đầy gân xanh. Đôi mắt anh vằn tia đỏ, dán chặt vào phía trước nhưng những lời thốt ra lại sắc nhọn như dao cắm vào tim cô.
 
-"Tôi điên? Đúng, tôi điên mới ngồi ngoài này hàng giờ đồng hồ để nhìn cô liếc mắt đưa tình với gã đó! Mới 5 năm, bản lãnh quyến rũ đàn ông của cô đã tiến bộ đến mức này rồi sao?"
+"Tôi điên? Đúng, tôi điên mới ngồi ngoài này hàng giờ đồng hồ để nhìn cô liếc mắt đưa tình với tên đó! Mới 5 năm, bản lãnh quyến rũ đàn ông của cô đã tiến bộ đến mức này rồi sao?"
 
 Chiếc xe lao đi một cách điên cuồng trong màn mưa dày đặc. Nhìn kim đồng hồ nhích lên vùn vụt, Sơ Hạ thực sự cảm thấy mình sắp chết rồi. Nỗi sợ hãi tột độ bóp nghẹt lồng ngực khiến mọi uất ức đều bị nuốt chửng, cô nhắm chặt mắt, thất thanh hét lên một tiếng: 
 
@@ -54,7 +52,7 @@ Xe đỗ xịch lại ở một đoạn đường vắng vẻ ven sông. Trong s
 
 Phó Tư Hàn tháo dây an toàn, nhoài người sang, ép chặt cô vào thành ghế. Bóng tối bao trùm lấy hai người, khoảng cách gần đến mức cô có thể cảm nhận được nhiệt độ nóng rực tỏa ra từ cơ thể anh.
 
-"Bây giờ mới biết sợ sao?" Giọng anh trầm khàn, khẽ cười gằn một tiếng mang theo sự cuồng loạn và đay nghiến. Ngón tay thô ráp của anh bóp chặt lấy cằm cô, ép cô phải đối diện với đôi mắt như dã thú của mình. "Từ hôm nay, không ai được phép đứng gần cô quá ba bước — kể cả cái tên vừa rồi." Giọng anh đều đều như đang tuyên một điều luật, không chừa chỗ cho sự mặc cả. "Lâm Sơ Hạ, cô đừng có nằm mơ."
+"Bây giờ mới biết sợ sao?" Giọng anh trầm khàn, khẽ cười gằn một tiếng mang theo sự cuồng loạn và đay nghiến. Ngón tay thô ráp của anh bóp chặt lấy cằm cô, ép cô phải đối diện với đôi mắt như dã thú của mình. "Từ hôm nay, không ai được phép đứng gần cô quá ba bước — kể cả cái tên vừa rồi." Giọng anh đều đều như đang tuyên một điều luật, không chừa chỗ cho sự mặc cả. "Lâm Sơ Hạ, cô đừng mơ được sống yên ổn."
 
 Nước mắt Sơ Hạ rốt cuộc không kìm được mà trào ra, lăn dọc xuống ngón tay anh. Khuôn mặt cô chết lặng: "Rốt cuộc anh muốn gì?"
 

@@ -2,15 +2,15 @@
 
 Tám giờ sáng, Lâm Sơ Hạ đứng trước tòa nhà trụ sở của Tập đoàn Thịnh Thế, ngẩng đầu nhìn tòa kiến trúc kính cao vút sừng sững giữa nắng sớm, lòng ngổn ngang giữa hy vọng và bất an.
 
-Suốt hai tháng ròng rã, cô đã rải đơn xin việc khắp thành phố, nhưng hết công ty này đến công ty khác đều lặng lẽ từ chối cô sau vòng phỏng vấn cuối, không một lời giải thích rõ ràng. Cô không biết rằng đó là bàn tay của một người phụ nữ quyền lực đã âm thầm ra sức ngăn cản.
+Suốt hai tháng ròng rã, cô đã rải đơn xin việc khắp thành phố, nhưng hết công ty này đến công ty khác đều lặng lẽ từ chối cô sau vòng phỏng vấn cuối, không một lời giải thích rõ ràng.
 
-Cách đây vài hôm, cô bất ngờ nhận được thư mời phỏng vấn vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế — một cái tên hoàn toàn xa lạ, chẳng gợi lên chút liên tưởng nào trong đầu cô. Buổi phỏng vấn hôm đó diễn ra chóng vánh đến kỳ lạ, những câu hỏi qua loa khiến cô còn thầm nghĩ chắc mình lại trượt như bao lần trước. Vậy mà tối qua, cô bất ngờ nhận được cuộc gọi báo tin trúng tuyển, mức lương gấp năm lần tiền lương phục vụ bàn. Cô mừng đến mức không dám tin vào tai mình, chỉ nghĩ đơn giản rằng sau bao lần thất bại, cuối cùng nỗ lực của mình cũng được đền đáp. Cô nào hay, buổi phỏng vấn hôm đó chỉ là một thủ tục cho có lệ — kết quả đã được định đoạt từ trước, bởi một người mà cô không hề hay biết.
+Cách đây vài hôm, cô bất ngờ nhận được thư mời phỏng vấn vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế. Buổi phỏng vấn hôm đó diễn ra chóng vánh đến kỳ lạ, những câu hỏi qua loa khiến cô còn thầm nghĩ chắc mình lại trượt như bao lần trước. Vậy mà tối qua, cô bất ngờ nhận được cuộc gọi báo tin trúng tuyển. Cô mừng đến mức không dám tin vào tai mình, chỉ nghĩ đơn giản rằng sau bao lần thất bại, cuối cùng nỗ lực của mình cũng được đền đáp. Cô nào hay, buổi phỏng vấn hôm đó chỉ là một thủ tục cho có lệ — kết quả đã được định đoạt từ trước, bởi một người mà cô không hề hay biết.
 
 Cô hít một hơi thật sâu, đẩy cánh cửa kính xoay, bước vào sảnh lớn. Cô mang theo tâm trạng ấy bước ra khỏi thang máy chuyên dụng lên tầng 88. Sự hào nhoáng của trụ sở chính khiến cô càng thêm hồi hộp — cho đến khi ánh mắt cô chạm phải cánh cửa phòng Tổng giám đốc bật mở, và người bước ra từ trong đó chính là gương mặt cô ám ảnh suốt đêm qua.
 
 Sơ Hạ chết sững tại chỗ. Không thể nào. Đây... là công ty của anh?
 
-Từng có một khắc, cô chỉ muốn quay người bỏ chạy ngay lập tức. Nhưng nghĩ đến con số tiền viện phí tháng này của em trai vẫn còn treo lơ lửng, nghĩ đến việc phải rải đơn lại từ đầu không biết bao lâu nữa mới có nơi nhận, đôi chân cô như hóa đá, không thể nhấc lên nổi. Cô nuốt xuống cơn nghẹn nơi cổ họng, tự nhủ chỉ cần cắn răng qua ngày, tiền lương vẫn cứ vào tài khoản là được.
+Trong một khoảnh khắc, cô chỉ muốn quay người bỏ chạy ngay lập tức. Nhưng nghĩ đến con số tiền viện phí tháng này của em trai vẫn còn treo lơ lửng, đôi chân cô như hóa đá, không thể nhấc lên nổi. Cô nuốt xuống cơn nghẹn nơi cổ họng, tự nhủ chỉ cần cắn răng qua ngày, tiền lương vẫn cứ vào tài khoản là được.
 
 Cô cứ nghĩ Phó Tư Hàn sẽ đích thân làm khó dễ mình, nhưng không ngờ vừa bước đến, cô đã gặp Thư ký Trần - nam thư ký đắc lực của anh. Không hề tỏ ra bất ngờ, anh ta lạnh nhạt đưa cho cô một bộ đồng phục công sở màu đen cứng nhắc.
 
