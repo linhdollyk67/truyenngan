@@ -16,4 +16,4 @@ Sau khi được tạo ra, không tự ý thay đổi Canon nếu không đượ
   + [Tên NV1]: 
   + [Tên NV2]: 
 
-*(Lặp lại 1 block "## Chương [X]" cho mỗi chương sau khi viết xong draft, cập nhật bắt buộc theo `system/WORKFLOW/main_workflow.md` Bước 5 — xem ví dụ thực tế tại `stories/01_ceo_ex_boyfriend/MEMORY/story_bible.md`)*\n
+*(Lặp lại 1 block "## Chương [X]" cho mỗi chương sau khi viết xong draft, cập nhật bắt buộc theo `system/WORKFLOW/main_workflow.md` Phase 6 — xem ví dụ thực tế tại `stories/01_ceo_ex_boyfriend/MEMORY/story_bible.md`)*\n

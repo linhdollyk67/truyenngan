@@ -1,14 +1,22 @@
 # Chương 3: Bóng Dáng "Bạch Liên Hoa"
 
-Tám giờ sáng, Lâm Sơ Hạ bước vào sảnh lớn của Tập đoàn Phó Thị. Đêm qua, Phó Tư Hàn đã dùng sự sống còn của quán cà phê và tiền viện phí của em trai để ép cô phải xuất hiện tại đây. 
+Tám giờ sáng, Lâm Sơ Hạ đứng trước tòa nhà trụ sở của Tập đoàn Thịnh Thế, ngẩng đầu nhìn tòa kiến trúc kính cao vút sừng sững giữa nắng sớm, lòng ngổn ngang giữa hy vọng và bất an.
 
-Dù không còn làm ở đó, nhưng cô không thể vì ân oán cá nhân mà liên lụy đến Lục Ngôn - người chủ quán đã cưu mang mình lúc khó khăn nhất, càng không dám đánh cược với mạng sống của em trai. Anh ta ép cô đến đây để trả giá, nhưng hoàn toàn không nói rõ cô sẽ phải làm công việc gì. Cô mang theo tâm trạng bất an bước ra khỏi thang máy chuyên dụng lên tầng 88. Sự hào nhoáng của trụ sở chính hoàn toàn trái ngược với cõi lòng kiệt quệ của cô.
+Suốt hai tháng ròng rã, cô đã rải đơn xin việc khắp thành phố, nhưng hết công ty này đến công ty khác đều lặng lẽ từ chối cô sau vòng phỏng vấn cuối, không một lời giải thích rõ ràng. Cô không biết rằng đó là bàn tay của một người phụ nữ quyền lực đã âm thầm ra sức ngăn cản.
 
-Cô cứ nghĩ Phó Tư Hàn sẽ đích thân làm khó dễ mình, nhưng không ngờ vừa bước đến, cô đã gặp Trợ lý Lý - nam thư ký đắc lực của anh. Không hề tỏ ra bất ngờ, anh ta lạnh nhạt đưa cho cô một bộ đồng phục công sở màu đen cứng nhắc.
+Cách đây vài hôm, cô bất ngờ nhận được thư mời phỏng vấn vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế — một cái tên hoàn toàn xa lạ, chẳng gợi lên chút liên tưởng nào trong đầu cô. Buổi phỏng vấn hôm đó diễn ra chóng vánh đến kỳ lạ, những câu hỏi qua loa khiến cô còn thầm nghĩ chắc mình lại trượt như bao lần trước. Vậy mà tối qua, cô bất ngờ nhận được cuộc gọi báo tin trúng tuyển, mức lương gấp năm lần tiền lương phục vụ bàn. Cô mừng đến mức không dám tin vào tai mình, chỉ nghĩ đơn giản rằng sau bao lần thất bại, cuối cùng nỗ lực của mình cũng được đền đáp. Cô nào hay, buổi phỏng vấn hôm đó chỉ là một thủ tục cho có lệ — kết quả đã được định đoạt từ trước, bởi một người mà cô không hề hay biết.
+
+Cô hít một hơi thật sâu, đẩy cánh cửa kính xoay, bước vào sảnh lớn. Cô mang theo tâm trạng ấy bước ra khỏi thang máy chuyên dụng lên tầng 88. Sự hào nhoáng của trụ sở chính khiến cô càng thêm hồi hộp — cho đến khi ánh mắt cô chạm phải cánh cửa phòng Tổng giám đốc bật mở, và người bước ra từ trong đó chính là gương mặt cô ám ảnh suốt đêm qua.
+
+Sơ Hạ chết sững tại chỗ. Không thể nào. Đây... là công ty của anh?
+
+Từng có một khắc, cô chỉ muốn quay người bỏ chạy ngay lập tức. Nhưng nghĩ đến con số tiền viện phí tháng này của em trai vẫn còn treo lơ lửng, nghĩ đến việc phải rải đơn lại từ đầu không biết bao lâu nữa mới có nơi nhận, đôi chân cô như hóa đá, không thể nhấc lên nổi. Cô nuốt xuống cơn nghẹn nơi cổ họng, tự nhủ chỉ cần cắn răng qua ngày, tiền lương vẫn cứ vào tài khoản là được.
+
+Cô cứ nghĩ Phó Tư Hàn sẽ đích thân làm khó dễ mình, nhưng không ngờ vừa bước đến, cô đã gặp Thư ký Trần - nam thư ký đắc lực của anh. Không hề tỏ ra bất ngờ, anh ta lạnh nhạt đưa cho cô một bộ đồng phục công sở màu đen cứng nhắc.
 
 "Cô Lâm, Phó tổng đã dặn dò. Từ hôm nay cô sẽ làm trợ lý thư ký tại phòng Tổng giám đốc." 
 
-Sơ Hạ ngẩn người cầm lấy bộ đồng phục. Vừa thay đồ xong bước ra, Trợ lý Lý đã ném một xấp tài liệu dày cộp lên bàn làm việc dành cho cô.
+Sơ Hạ ngẩn người cầm lấy bộ đồng phục. Vừa thay đồ xong bước ra, Thư ký Trần đã ném một xấp tài liệu dày cộp lên bàn làm việc dành cho cô.
 
 "Trợ lý Lâm, Phó tổng yêu cầu cô photo và phân loại toàn bộ số hồ sơ này trước buổi họp mười giờ. Nhớ kỹ, không được sai sót."
 
@@ -38,7 +46,7 @@ Phó Tư Hàn nhíu mày định từ chối, nhưng Thẩm Vãn Doanh đã nhan
 
 Một lúc sau, Sơ Hạ bưng cốc nước nóng bốc khói nghi ngút bước ra. Thẩm Vãn Doanh chủ động tiến lại gần, cười dịu dàng vươn tay đón lấy cốc nước. 
 
-Nhưng ngay khi những ngón tay sơn sửa tỉ mỉ của Thẩm Vãn Doanh vừa chạm vào thành cốc, cô ta đột nhiên rụt tay lại. Cốc nước thủy tinh trượt khỏi tay Sơ Hạ, rơi loảng xoảng xuống sàn nhà. 
+Nhưng ngay khi những ngón tay sơn sửa tỉ mỉ của Thẩm Vãn Doanh vừa chạm vào thành cốc, cô ta đột nhiên rụt tay lại, đồng thời khẽ hất nhẹ cổ tay khiến miệng cốc chao nghiêng — dòng nước sôi trào ngược lên mu bàn tay đang đỡ cốc của Sơ Hạ trước khi cốc nước thủy tinh trượt khỏi tay cô, rơi loảng xoảng xuống sàn nhà. 
 
 Xoảng!
 
@@ -50,7 +58,7 @@ Thẩm Vãn Doanh lùi lại hai bước, sắc mặt tái nhợt, đôi mắt x
 
 "Tư Hàn, anh đừng giận!" Thẩm Vãn Doanh vội vã nắm lấy ống tay áo của Phó Tư Hàn, giọng nói run run đầy hối lỗi và vị tha. "Là do em không tốt, em sơ ý quá nên mới làm đổ nước. Anh ngàn vạn lần đừng trách thư ký Lâm nhé, chắc cô ấy chưa quen việc nên mới lóng ngóng trượt tay một chút thôi..."
 
-Sơ Hạ cắn chặt răng, cố nén cơn đau rát từ mu bàn tay đang đỏ ửng lên từng mảng. Lời nói của Thẩm Vãn Doanh nghe thì như đang xin tội thay cô, nhưng thực chất lại đâm thẳng một nhát dao, biến cô thành kẻ hậu đậu, lóng ngóng làm đổ nước nóng lên người vị hôn thê của sếp.
+Sơ Hạ hít vào một hơi thật sâu qua khe răng, cố nén cơn đau rát đang lan dần từ mu bàn tay đỏ ửng. Lời nói của Thẩm Vãn Doanh nghe thì như đang xin tội thay cô, nhưng thực chất lại đâm thẳng một nhát dao, biến cô thành kẻ hậu đậu, lóng ngóng làm đổ nước nóng lên người vị hôn thê của sếp.
 
 Sơ Hạ không giải thích. Trải qua bao nhiêu chuyện, cô thừa hiểu, lời giải thích của một kẻ bần cùng sẽ không bao giờ có giá trị trước một thiên kim tiểu thư cao quý. Cô chỉ mím môi, tĩnh lặng như mặt hồ cạn kiệt.
 

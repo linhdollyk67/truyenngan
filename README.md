@@ -40,6 +40,8 @@ graph TD
     H -->|Pass toàn bộ| J[Phase 9: Hoàn Thiện Truyện]
 ```
 
+*Các Phase 1-9 ở trên khớp chính xác với các Phase trong `system/WORKFLOW/main_workflow.md` — đây là tên gọi duy nhất được dùng trong `STATUS.md` (xem `system/RULES/core_rules.md` Rule 8). Danh sách lệnh/prompt mẫu bên dưới chỉ là hướng dẫn thực hành, không phải số Phase.*
+
 ## Các lệnh và Prompt mẫu
 
 Mỗi bước đều có lệnh rút gọn tương ứng (mô phỏng). Nếu lệnh rút gọn không hoạt động, hãy dùng các **Prompt mẫu** dưới đây gửi vào khung chat:
@@ -60,12 +62,12 @@ Mỗi bước đều có lệnh rút gọn tương ứng (mô phỏng). Nếu l�
 ### 4. Xây dựng cốt truyện & Dàn ý
 - **Lệnh rút gọn:** `/create-outline` & `/create-chapters`
 - **Prompt mẫu:** 
-> "Sử dụng `story_architect` và `chapter_planner`. Tạo Outline tổng thể cho truyện và Dàn ý chi tiết cho 8 chương. Yêu cầu mỗi chương phải có sự phát triển tình cảm. Viết ra `OUTPUT/outline/`."
+> "Sử dụng `story_architect`, `romance_architect`, `conflict_designer` và `chapter_planner`. Tạo Outline tổng thể cho truyện và Dàn ý chi tiết cho 8 chương. Yêu cầu mỗi chương phải có sự phát triển tình cảm. Viết ra `OUTPUT/outline/`."
 
 ### 5. Chốt Canon & Viết bản nháp chương 1
 - **Lệnh rút gọn:** `/write-chapter 1`
 - **Prompt mẫu:** 
-> "Cập nhật các thông tin vào `MEMORY/story_bible.md`. Sau đó, dùng `scene_writer` và `emotion_writer` để viết bản nháp Chương 1. Tuân thủ nghiêm ngặt quy tắc Show, don't tell. Viết ra `OUTPUT/drafts/chapter_1.md`."
+> "Cập nhật các thông tin vào `MEMORY/story_bible.md`. Sau đó, dùng `scene_writer`, `emotion_writer` và `dialogue_writer` để viết bản nháp Chương 1. Tuân thủ nghiêm ngặt quy tắc Show, don't tell. Viết ra `OUTPUT/drafts/chapter_1.md`."
 
 **⚠️ LƯU Ý QUAN TRỌNG VỀ VIẾT CHƯƠNG (RULE 7):**
 - AI chỉ được phép viết **từng chương một**. 

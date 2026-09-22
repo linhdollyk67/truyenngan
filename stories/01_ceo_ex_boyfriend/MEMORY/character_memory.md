@@ -24,7 +24,7 @@
 
 ## 2. Nam Chính: Phó Tư Hàn (Fu Sihan)
 - **Age:** 27 tuổi
-- **Role:** CEO Tập đoàn Phó Thị (vừa từ nước ngoài trở về tiếp quản), người yêu cũ của Lâm Sơ Hạ.
+- **Role:** CEO Tập đoàn Thịnh Thế (vừa từ nước ngoài trở về tiếp quản), người yêu cũ của Lâm Sơ Hạ.
 - **Appearance:** Cao 1m87, âu phục cắt may thủ công không một nếp nhăn. Khí chất lạnh lẽo, áp bách. Ánh mắt thâm thúy, thường mang theo nụ cười châm biếm nửa miệng khi đối diện với Lâm Sơ Hạ.
 - **Personality:** Ngoài mặt tàn nhẫn, lạnh lùng, quyết đoán trên thương trường. Nhưng trong tình cảm lại là một kẻ cố chấp, cực đoan và có tính chiếm hữu rất cao.
 - **Strengths:** Năng lực làm việc xuất chúng, nhạy bén, quyền lực và tài chính áp đảo.
@@ -56,3 +56,16 @@
 - **Role:** Mẹ ruột của nam chính.
 - **Personality:** Trọng sĩ diện, môn đăng hộ đối, thương con nhưng dễ bị kích động và thao túng.
 - **Chức năng:** Phản đối cuộc tình một cách công khai. Bà không quá tàn độc, chủ yếu dùng quyền lực bề mặt để đe dọa, phong sát và làm phiền cuộc sống của Lâm Sơ Hạ để ép cô rời đi. Thường xuyên trở thành "con cờ" bị Thẩm Vãn Doanh giật dây.
+
+---
+
+## 5. Nam Phụ: Lục Ngôn
+- **Role:** Chủ quán cà phê L'Étoile, nơi Sơ Hạ làm việc tạm bợ.
+- **Personality:** Ấm áp, chu đáo, kiên nhẫn. Thầm mến Sơ Hạ nhưng luôn giữ khoảng cách tôn trọng, chưa từng ngỏ lời.
+- **Chức năng:** Vector ghen tuông cho nam chính (Chương 2); đại diện cho một lựa chọn "an toàn, dịu dàng" mà Sơ Hạ không chọn. Là người duy nhất ngoài gia đình từng dang tay giúp đỡ cô lúc khó khăn nhất — vì vậy Sơ Hạ luôn áy náy và không muốn anh bị liên lụy.
+- **Lưu ý continuity:** Chứng kiến trực tiếp cảnh Sơ Hạ bị kéo lên xe ở Chương 2 — phản ứng/số phận của tuyến nhân vật này sau đó là 1 thread đang OPEN (xem `MEMORY/unresolved_threads.md`), cần được nhắc lại ở một chương sau, không để biến mất lặng lẽ.
+
+## 6. Phụ: Thư Ký Trần
+- **Role:** Thư ký riêng của Phó Tư Hàn tại Tập đoàn Thịnh Thế.
+- **Personality:** Điềm tĩnh, kín tiếng, tuyệt đối trung thành và làm đúng chỉ thị của cấp trên không thắc mắc.
+- **Chức năng:** Cánh tay nối dài thực thi các quyết định (công khai lẫn bí mật) của Phó Tư Hàn — từ giao việc vặt cho Sơ Hạ (Chương 3) đến âm thầm xử lý hồ sơ tuyển dụng của cô (nền, tối Chương 2 — xem `MEMORY/story_bible.md`) và sau này là tra soát bằng chứng (Chương 8). Không có quan điểm/mưu đồ riêng, chỉ phản ánh ý chí của nam chính.

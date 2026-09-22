@@ -1,4 +1,4 @@
-# DÀN Ý CHI TIẾT (CHAPTER OUTLINE) - 10 CHƯƠNG
+# DÀN Ý CHI TIẾT (CHAPTER OUTLINE) - 11 CHƯƠNG
 
 ## Chương 1: Cốc Cà Phê Đắng Sau 5 Năm (Reunion)
 - **Purpose:** Thiết lập hiện trạng tồi tệ của Lâm Sơ Hạ và sự trở về đầy quyền lực của Phó Tư Hàn.
@@ -14,7 +14,7 @@
   + (Sau đó, khi Lâm Sơ Hạ luống cuống cúi xuống dọn dẹp/nhặt tiền, anh ghé sát tai cô thì thầm bằng giọng cay độc): *"5 năm qua, cô chỉ học được cách quỳ gối xin tiền thôi sao?"*
 - **Reveal:** Phó Tư Hàn đã trở thành CEO tàn nhẫn, không còn là chàng trai ấm áp năm xưa.
 - **Ending hook:** Phó Tư Hàn ném một xấp tiền boa xuống đất, yêu cầu Lâm Sơ Hạ nhặt lên. Cô cắn răng nhặt để chữa bệnh cho em trai.
-- **Continuity notes:** Khởi đầu cho chuỗi ngày bị hành hạ.
+- **Continuity notes:** Threads mới cài (xem `MEMORY/unresolved_threads.md`): (1) lời nói dối "vì tiền" 5 năm trước (đã cài từ trước truyện, chưa trả); tình trạng viện phí em trai bắt đầu được nhắc tới như một countdown.
 - **Questions:** 
   1. *What changes?* Thế cân bằng 5 năm bị phá vỡ. 
   2. *Why does it matter?* Họ chính thức bước lại vào đời nhau. 
@@ -25,29 +25,29 @@
 - **Purpose:** Bộc lộ sự ghen tuông bệnh hoạn và tính chiếm hữu của Phó Tư Hàn.
 - **POV:** Ngôi thứ ba giới hạn (Tập trung vào Phó Tư Hàn).
 - **Setting:** Bên ngoài quán cà phê lúc tan tầm / Trong xe sang của Phó Tư Hàn.
-- **Characters:** Phó Tư Hàn, Lâm Sơ Hạ, một đồng nghiệp nam.
-- **Main event:** Phó Tư Hàn ngồi trong xe âm thầm theo dõi Lâm Sơ Hạ. Thấy cô được một đồng nghiệp nam che ô cười đùa, anh mất kiểm soát, lao ra kéo cô lên xe.
+- **Characters:** Phó Tư Hàn, Lâm Sơ Hạ, Lục Ngôn (chủ quán cà phê), Thư ký Trần.
+- **Main event:** Phó Tư Hàn ngồi trong xe âm thầm theo dõi Lâm Sơ Hạ. Thấy cô được Lục Ngôn che ô quan tâm, anh mất kiểm soát, lao ra kéo cô lên xe. *(Nền, không dựng cảnh trên trang giấy — sẽ được Sơ Hạ hồi tưởng ở đầu Chương 3):* cùng tối đó, Sơ Hạ nhận được cuộc gọi báo trúng tuyển vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế — nơi cô đã phỏng vấn vài hôm trước mà không biết đây chính là công ty của Phó Tư Hàn; buổi phỏng vấn thực chất chỉ mang tính hình thức vì anh đã âm thầm chỉ đạo Thư ký Trần đảm bảo cô trúng tuyển, giấu kín việc mình đứng sau.
 - **Conflict:** Sự kháng cự của Lâm Sơ Hạ vs sức mạnh ép buộc của Phó Tư Hàn.
 - **Emotional objective:** Căng thẳng tột độ, nghẹt thở vì tính chiếm hữu.
 - **Relationship progression:** Sự va chạm vật lý đầu tiên. Ranh giới hận thù và dục vọng bắt đầu nhạt nhòa.
 - **Important dialogue:**
   + Lâm Sơ Hạ: *"Phó tổng, xin tự trọng, anh sắp kết hôn rồi!"*
   + Phó Tư Hàn: *"Kết hôn thì sao? Cô nghĩ tôi sẽ để cô sống yên ổn với thằng khác à?"*
-- **Reveal:** Dù hận, Phó Tư Hàn chưa bao giờ buông bỏ được Lâm Sơ Hạ.
-- **Ending hook:** Anh ép cô ký một bản hợp đồng làm "thư ký riêng" kiêm người hầu, đe dọa sẽ hủy hoại quán cà phê và em cô nếu từ chối.
-- **Continuity notes:** Giải thích lý do cô buộc phải vào làm ở công ty anh.
+- **Reveal:** Dù hận, Phó Tư Hàn chưa bao giờ buông bỏ được Lâm Sơ Hạ — anh chọn cách "chiếm hữu trong âm thầm" thay vì ép buộc công khai.
+- **Ending hook:** "Tôi muốn cô phải trả giá." — lời đe dọa mơ hồ của Phó Tư Hàn, để ngỏ cho người đọc đoán xem anh sẽ "trả giá" bằng cách nào.
+- **Continuity notes:** Threads mới cài (không dựng cảnh, chỉ là canon nền cho Chương 3): (2) Sơ Hạ không biết chính Phó Tư Hàn đã sắp xếp để cô trúng tuyển và buổi phỏng vấn trước đó chỉ là hình thức — cô sẽ chỉ biết đây là công ty của anh ở Chương 3, còn việc anh đứng sau tuyển dụng thì chưa biết (xem `MEMORY/unresolved_threads.md`).
 - **Questions:** 
-  1. *What changes?* Cô rơi vào tròng của nam chính. 
-  2. *Why does it matter?* Không còn đường lui. 
-  3. *How does relationship change?* Chuyển từ người lạ thành mối quan hệ chủ - tớ ép buộc. 
-  4. *What makes reader continue?* Cuộc sống ở công ty sẽ ra sao?
+  1. *What changes?* Sơ Hạ vô tình bước vào vòng ảnh hưởng của nam chính mà không hề hay biết. 
+  2. *Why does it matter?* Đặt nền cho một bí mật nam chính giữ kín. 
+  3. *How does relationship change?* Nam chính chuyển từ thù hận công khai sang bảo bọc ngầm. 
+  4. *What makes reader continue?* Cô sẽ phản ứng ra sao khi biết sự thật về nơi mình sắp làm việc?
 
 ## Chương 3: Bóng Dáng "Bạch Liên Hoa" (The Fiancee)
 - **Purpose:** Giới thiệu nữ phụ Thẩm Vãn Doanh và xung đột bên ngoài.
 - **POV:** Ngôi thứ ba giới hạn (Lâm Sơ Hạ).
-- **Setting:** Trụ sở Tập đoàn Phó Thị.
+- **Setting:** Trụ sở Tập đoàn Thịnh Thế.
 - **Characters:** Lâm Sơ Hạ, Phó Tư Hàn, Thẩm Vãn Doanh.
-- **Main event:** Ngày đầu Sơ Hạ làm việc. Thẩm Vãn Doanh đến thăm Phó Tư Hàn, tỏ ra vô cùng hiền thục dịu dàng. Nhưng sau lưng anh, cô ta dùng lời nói kháy Sơ Hạ, cố tình đổ nước nóng vào tay Sơ Hạ rồi giả vờ xin lỗi.
+- **Main event:** Mở đầu, Sơ Hạ đứng trước tòa nhà Thịnh Thế hồi tưởng lại hành trình xin việc (2 tháng rải đơn thất bại, buổi phỏng vấn qua loa, cuộc gọi báo trúng tuyển tối hôm trước) trước khi bước vào ngày đầu nhận việc Trợ lý riêng — cô sốc khi phát hiện "sếp" chính là Phó Tư Hàn, nhưng vì lương tốt và viện phí em trai nên quyết định ở lại. Sau đó, Thẩm Vãn Doanh đến thăm Phó Tư Hàn, tỏ ra vô cùng hiền thục dịu dàng. Nhưng sau lưng anh, cô ta dùng lời nói kháy Sơ Hạ, cố tình đổ nước nóng vào tay Sơ Hạ rồi giả vờ xin lỗi.
 - **Conflict:** Thẩm Vãn Doanh ngấm ngầm ra oai vs Lâm Sơ Hạ nhẫn nhịn.
 - **Emotional objective:** Sự ấm ức, ghen tủi của nữ chính. 
 - **Relationship progression:** Phó Tư Hàn thấy tay Sơ Hạ đỏ ửng, dù lạnh lùng nhưng ánh mắt lóe lên sự xót xa, mắng cô ngu ngốc không biết né.
@@ -55,7 +55,7 @@
   + Thẩm Vãn Doanh (vẻ mặt hốt hoảng, đầy hối lỗi): *"Tư Hàn, anh đừng giận, là do em không tốt nên mới làm đổ nước. Anh ngàn vạn lần đừng trách thư ký Lâm nhé, chắc cô ấy chưa quen việc nên mới trượt tay một chút thôi..."*
 - **Reveal:** Thẩm Vãn Doanh không hề đơn giản, cô ta đã biết Sơ Hạ là tình cũ.
 - **Ending hook:** Thẩm Vãn Doanh gọi điện cho ai đó (mẹ nam chính) để "thổi gió".
-- **Continuity notes:** Bắt đầu cài cắm sự thao túng của nữ phụ.
+- **Continuity notes:** Threads mới cài: (3) TVD gọi điện "thổi gió" cho mẹ PTH — dự kiến trả ở Chương 6 (mẹ PTH ra tay đe dọa Sơ Hạ); (4) vết bỏng tay Sơ Hạ — cần nhắc lại quá trình hồi phục ở `MEMORY/timeline.md`.
 - **Questions:** 1. *What changes?* Nữ phụ chính thức tham chiến. 2. *Why does it matter?* Nguy hiểm rình rập nữ chính. 3. *How does relationship change?* Nam chính bắt đầu có dấu hiệu bảo vệ ngầm. 4. *What makes reader continue?* Mẹ nam chính sẽ làm gì?
 
 ## Chương 4: Đêm Tăng Ca Đầy Biến Động (Tension)
@@ -127,35 +127,51 @@
 - **Purpose:** Sự trống rỗng của nam chính và hành trình tìm ra sự thật.
 - **POV:** Ngôi thứ ba giới hạn (Phó Tư Hàn).
 - **Setting:** Công ty, căn hộ trống không.
-- **Characters:** Phó Tư Hàn, Trợ lý.
-- **Main event:** Sơ Hạ biến mất không dấu vết. Phó Tư Hàn tưởng mình sẽ hả hê nhưng lại phát điên. Trợ lý điều tra vụ mất nhẫn, tình cờ phát hiện ra camera ẩn cho thấy chính Thẩm Vãn Doanh đã tự nhét nhẫn vào túi Sơ Hạ.
+- **Characters:** Phó Tư Hàn, Thư ký Trần.
+- **Main event:** Sơ Hạ biến mất không dấu vết. Phó Tư Hàn tưởng mình sẽ hả hê nhưng lại phát điên. Nhớ lại thái độ bất thường và câu nói nửa vời của Thẩm Vãn Doanh tại tiệc đính hôn, chính anh nảy sinh nghi ngờ và tự tay ra lệnh cho Thư ký Trần lật lại toàn bộ camera an ninh cùng lịch trình ra vào văn phòng hôm xảy ra vụ mất nhẫn. Đích thân anh xem lại từng đoạn ghi hình và phát hiện ra chính Thẩm Vãn Doanh đã tự nhét nhẫn vào túi Sơ Hạ.
 - **Conflict:** Nỗi ân hận tột cùng vs Bí mật đang dần hé lộ.
 - **Emotional objective:** Sự sụp đổ của niềm tin sai lệch, hối hận điên cuồng.
 - **Relationship progression:** Nam chính nhận ra mình đã làm tổn thương người con gái vô tội.
 - **Important dialogue:** 
   + Phó Tư Hàn (giọng vô cùng trầm, chậm rãi nhưng toát ra áp bách bức người): *"Tìm cô ấy."*
 - **Reveal:** Nam chính bắt đầu nghi ngờ mọi thứ trong quá khứ 5 năm trước.
-- **Ending hook:** Trợ lý tìm ra bệnh án của mẹ Sơ Hạ và sao kê tài khoản ngân hàng từ 5 năm trước, dòng tiền đến từ quỹ của Phó Phu Nhân.
+- **Ending hook:** Không yên tâm với lời giải thích hời hợt của Thẩm Vãn Doanh, Phó Tư Hàn tự mình lần theo dòng nghi vấn 5 năm trước, đích thân yêu cầu Thư ký Trần tra soát sao kê tài khoản và hồ sơ bệnh án gia đình Sơ Hạ từ 5 năm trước — phát hiện dòng tiền khi đó đến từ chính quỹ riêng của Phó Phu Nhân.
 - **Continuity notes:** Dọn đường cho Climax.
 - **Questions:** 1. *What changes?* Nam chính biết một phần sự thật. 2. *Why does it matter?* Đảo ngược thế cờ. 3. *How does relationship change?* Hận thù chuyển thành ân hận tột cùng. 4. *What makes reader continue?* Anh sẽ xử lý nữ phụ thế nào?
 
-## Chương 9: Hóa Điên (Climax - Truth Revealed)
-- **Purpose:** Giải quyết triệt để phản diện, vạch trần mọi bí mật.
+## Chương 9: Vạch Trần "Bạch Liên Hoa" (Climax I - Exposure)
+- **Purpose:** Giải quyết triệt để phản diện bên ngoài — vạch trần Thẩm Vãn Doanh, hủy hôn, cắt đứt quan hệ hai gia tộc.
 - **POV:** Ngôi thứ ba giới hạn (Phó Tư Hàn).
-- **Setting:** Biệt thự nhà họ Phó.
-- **Characters:** Phó Tư Hàn, Thẩm Vãn Doanh, Phó Phu Nhân.
-- **Main event:** Phó Tư Hàn cầm toàn bộ bằng chứng vạch trần bộ mặt "bạch liên hoa" của Thẩm Vãn Doanh trước mặt hai gia tộc, thẳng tay hủy hôn, cắt đứt làm ăn khiến nhà họ Thẩm sụp đổ. Anh đối chất với mẹ ruột, đau đớn gào lên khi biết sự thật 5 năm qua.
-- **Conflict:** Đứa con trai tuyệt tình với gia tộc vì người mình yêu.
-- **Emotional objective:** Căng thẳng, bùng nổ, sảng khoái (Payoff lớn nhất).
-- **Relationship progression:** Xóa sạch mọi vật cản External.
+- **Setting:** Buổi họp mặt/đối chất có đại diện hai gia tộc (biệt thự nhà họ Phó).
+- **Characters:** Phó Tư Hàn, Thẩm Vãn Doanh, đại diện nhà họ Thẩm, Phó Phu Nhân (chứng kiến).
+- **Main event:** Phó Tư Hàn cầm toàn bộ bằng chứng (camera vụ nhẫn, sao kê tài chính) vạch trần bộ mặt "bạch liên hoa" của Thẩm Vãn Doanh trước mặt hai gia tộc, thẳng tay tuyên bố hủy hôn, cắt đứt mọi quan hệ làm ăn khiến nhà họ Thẩm chao đảo.
+- **Conflict:** Thẩm Vãn Doanh cố vùng vẫy chống chế vs bằng chứng không thể chối cãi.
+- **Emotional objective:** Hả hê, dữ dội, đứng hẳn về phía công lý.
+- **Relationship progression:** Xóa sạch vật cản "hôn ước" — external conflict với Thẩm Vãn Doanh kết thúc.
 - **Important dialogue:**
-  + Phó Tư Hàn (tuyên bố tước quyền, sau đó nhìn bà bằng ánh mắt đỏ ngầu, khuôn mặt vỡ vụn vì đau đớn): *"Từ hôm nay, mọi quyền hạn của mẹ tại Phó Thị chính thức bị tước bỏ... Mẹ, 5 năm trước mẹ đã nhẫn tâm giết chết con trai mẹ một lần rồi. Bây giờ, mẹ thực sự muốn tự tay giết con thêm lần nữa sao?"* (Lời bộc bạch đau đớn này khiến Phó Phu Nhân sững sờ, rơi nước mắt và thực sự hối hận vì những gì mình đã làm).
-- **Reveal:** Sự thật 5 năm được phơi bày hoàn toàn.
-- **Ending hook:** Phó Tư Hàn lái xe điên cuồng trong đêm tìm đến thị trấn nhỏ nơi Sơ Hạ đang trốn.
-- **Continuity notes:** Giải quyết xong External Conflict.
-- **Questions:** 1. *What changes?* Kẻ thù bị đả bại. 2. *Why does it matter?* Tự do. 3. *How does relationship change?* Nam chính đã đủ tư cách bảo vệ nữ chính. 4. *What makes reader continue?* Cảnh đoàn tụ sẽ ra sao?
+  + Phó Tư Hàn (lạnh lùng tuyên bố trước hai gia tộc): *"Từ hôm nay, hôn ước giữa tôi và tiểu thư Thẩm chính thức chấm dứt. Mọi hợp tác giữa Thịnh Thế và Thẩm gia cũng vậy."*
+- **Reveal:** Toàn bộ thủ đoạn của Thẩm Vãn Doanh (vụ nhẫn, vụ nước nóng, thao túng mẹ Phó Tư Hàn) bị phơi bày trước mặt mọi người.
+- **Ending hook:** Ngay khi tưởng mọi chuyện đã xong, Phó Phu Nhân — vừa bị vạch trần luôn cả việc bản thân bị Thẩm Vãn Doanh lợi dụng — hoảng loạn buột miệng nhắc đến "chuyện 5 năm trước", vô tình hé lộ cho Phó Tư Hàn biết còn một bí mật lớn hơn.
+- **Continuity notes:** Threads: Thẩm Vãn Doanh sụp đổ (chưa rõ hậu quả cụ thể) — nối sang Chương 10; hé mở đầu mối cho bí mật 5 năm trước.
+- **Questions:** 1. *What changes?* Kẻ thù bên ngoài bị đả bại. 2. *Why does it matter?* Dọn đường cho sự thật lớn hơn. 3. *How does relationship change?* Nam chính chính thức tự do khỏi hôn ước. 4. *What makes reader continue?* Bí mật 5 năm trước là gì?
 
-## Chương 10: Chữa Lành Những Vết Xước (Resolution - HE)
+## Chương 10: Hóa Điên (Climax II - Đối Chất Mẹ Ruột)
+- **Purpose:** Đối chất mẹ ruột, phơi bày trọn vẹn sự thật 5 năm trước.
+- **POV:** Ngôi thứ ba giới hạn (Phó Tư Hàn).
+- **Setting:** Phòng riêng trong biệt thự nhà họ Phó, sau khi khách khứa đã rời đi.
+- **Characters:** Phó Tư Hàn, Phó Phu Nhân.
+- **Main event:** Phó Tư Hàn gặng hỏi mẹ đến cùng, dùng sao kê tài chính và bệnh án đã thu thập được (Chương 8) buộc bà thừa nhận đã đe dọa gia đình Sơ Hạ 5 năm trước khiến cô phải dàn cảnh chia tay.
+- **Conflict:** Đứa con trai tuyệt tình với gia tộc vì người mình yêu.
+- **Emotional objective:** Căng thẳng, bùng nổ, đau đớn tột cùng (Payoff lớn nhất).
+- **Relationship progression:** Toàn bộ hiểu lầm 5 năm được tháo gỡ hoàn toàn từ phía nam chính.
+- **Important dialogue:**
+  + Phó Tư Hàn (tuyên bố tước quyền, sau đó nhìn bà bằng ánh mắt đỏ ngầu, khuôn mặt vỡ vụn vì đau đớn): *"Từ hôm nay, mọi quyền hạn của mẹ tại Thịnh Thế chính thức bị tước bỏ... Mẹ, 5 năm trước mẹ đã nhẫn tâm giết chết con trai mẹ một lần rồi. Bây giờ, mẹ thực sự muốn tự tay giết con thêm lần nữa sao?"* (Lời bộc bạch đau đớn này khiến Phó Phu Nhân sững sờ, rơi nước mắt và thực sự hối hận vì những gì mình đã làm).
+- **Reveal:** Sự thật 5 năm được phơi bày hoàn toàn (từ phía Phó Tư Hàn).
+- **Ending hook:** Phó Tư Hàn lái xe điên cuồng trong đêm tìm đến thị trấn nhỏ nơi Sơ Hạ đang trốn.
+- **Continuity notes:** Giải quyết xong Internal Conflict của nam chính; thread "lời nói dối 5 năm trước" — RESOLVED từ góc nhìn Phó Tư Hàn (Sơ Hạ vẫn chưa biết anh đã biết sự thật).
+- **Questions:** 1. *What changes?* Kẻ thù cuối cùng (hiểu lầm) bị đả bại. 2. *Why does it matter?* Tự do thật sự. 3. *How does relationship change?* Nam chính đã đủ tư cách bảo vệ nữ chính. 4. *What makes reader continue?* Cảnh đoàn tụ sẽ ra sao?
+
+## Chương 11: Chữa Lành Những Vết Xước (Resolution - HE)
 - **Purpose:** Chữa lành, gỡ bỏ nút thắt cuối cùng (Internal) và Happy Ending.
 - **POV:** Ngôi thứ ba giới hạn (Lâm Sơ Hạ & Phó Tư Hàn).
 - **Setting:** Một thị trấn nhỏ ven biển.

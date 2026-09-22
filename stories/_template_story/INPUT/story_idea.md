@@ -40,4 +40,6 @@ REFERENCE (Tài liệu tham khảo):
 - Comedy level: (VD: Thấp)
 - Angst level: (VD: Cao)
 - Ending type: (VD: HE / SE / OE)
-- Writing style: (VD: Nhẹ nhàng, hài hước, show don't tell...)\n
+- Writing style: (VD: Nhẹ nhàng, hài hước, show don't tell...)
+
+*(Không tự thêm field cấu hình nào ngoài danh sách trên hoặc ngoài `system/CONFIG/story_config.md` — ví dụ KHÔNG thêm "Tense/Thì" vì tiếng Việt không chia động từ theo thì, xem `system/CONFIG/story_config.md`.)*\n

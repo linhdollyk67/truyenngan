@@ -1,2 +1,2 @@
 # Kỹ năng: Emotion Writer
-Viết cảm xúc qua hành động, ngôn ngữ cơ thể, subtext thay vì giải thích (Show don't tell).\n
+Áp dụng Rule 5 (Show, don't only tell) tại `system/RULES/core_rules.md` và `system/CONFIG/writing_style.md`: viết cảm xúc qua hành động, ngôn ngữ cơ thể, subtext thay vì lời kể giải thích trực tiếp.\n

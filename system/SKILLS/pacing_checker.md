@@ -1,2 +1,3 @@
 # Kỹ năng: Pacing Checker
-Kiểm tra xem tình cảm đi quá nhanh/chậm không, có chương nào filler không.\n
+Kiểm tra xem tình cảm đi quá nhanh/chậm không, có chương nào filler không (xem `system/RULES/pacing_rules.md`). Với chương Climax/Resolution, kiểm tra xem có bị rush do cố nén vào cap từ mặc định không (xem ngoại lệ nới cap tại `system/CONFIG/story_config.md`).
+Output: PASS hoặc ISSUES FOUND, mỗi issue theo format Issue / Severity (CRITICAL/MAJOR/MINOR) / Evidence / Suggested fix (giống `system/SKILLS/plot_hole_checker.md`), ghi vào `OUTPUT/reviews/review_report.md`.\n

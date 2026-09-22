@@ -33,12 +33,12 @@ REFERENCE (Tài liệu tham khảo):
 # TÙY CHỈNH CÂU CHUYỆN (STORY CONFIG)
 *(Để trống nếu muốn dùng cấu hình mặc định từ hệ thống `system/CONFIG/story_config.md`)*
 
-- Number of chapters: (VD: 8)
-- POV: (VD: Third person limited)
-- Tense: Present tense
+- Number of chapters: 11
+- POV: Third person limited
 - Romance intensity: (VD: Cao / Thấp)
 - Drama level: Cao
 - Comedy level: (VD: Thấp)
 - Angst level: (VD: Cao)
+- Conflict intensity: Cao
 - Ending type: (VD: HE / SE / OE)
 - Writing style: (VD: Nhẹ nhàng, hài hước, show don't tell...)\n

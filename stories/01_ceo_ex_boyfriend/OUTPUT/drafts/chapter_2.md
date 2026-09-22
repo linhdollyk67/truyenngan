@@ -54,7 +54,7 @@ Xe đỗ xịch lại ở một đoạn đường vắng vẻ ven sông. Trong s
 
 Phó Tư Hàn tháo dây an toàn, nhoài người sang, ép chặt cô vào thành ghế. Bóng tối bao trùm lấy hai người, khoảng cách gần đến mức cô có thể cảm nhận được nhiệt độ nóng rực tỏa ra từ cơ thể anh.
 
-"Bây giờ mới biết sợ sao?" Giọng anh trầm khàn, khẽ cười gằn một tiếng mang theo sự cuồng loạn và đay nghiến. Ngón tay thô ráp của anh bóp chặt lấy cằm cô, ép cô phải đối diện với đôi mắt như dã thú của mình. "Cô nghĩ trốn tránh tôi, cô có thể sống yên ổn với thằng khác sao? Lâm Sơ Hạ, cô đừng có nằm mơ!"
+"Bây giờ mới biết sợ sao?" Giọng anh trầm khàn, khẽ cười gằn một tiếng mang theo sự cuồng loạn và đay nghiến. Ngón tay thô ráp của anh bóp chặt lấy cằm cô, ép cô phải đối diện với đôi mắt như dã thú của mình. "Từ hôm nay, không ai được phép đứng gần cô quá ba bước — kể cả cái tên vừa rồi." Giọng anh đều đều như đang tuyên một điều luật, không chừa chỗ cho sự mặc cả. "Lâm Sơ Hạ, cô đừng có nằm mơ."
 
 Nước mắt Sơ Hạ rốt cuộc không kìm được mà trào ra, lăn dọc xuống ngón tay anh. Khuôn mặt cô chết lặng: "Rốt cuộc anh muốn gì?"
 

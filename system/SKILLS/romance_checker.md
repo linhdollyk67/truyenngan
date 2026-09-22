@@ -1,3 +1,3 @@
 # Kỹ năng: Romance Checker
-Kiểm tra: Attraction believable? Chemistry increasing? Emotional stakes?
-Output: PASS / NEEDS REVISION (không dùng điểm số).\n
+Kiểm tra: Attraction believable? Chemistry increasing? Emotional stakes? Có vi phạm giới hạn "Mức độ áp đặt" tại `system/RULES/romance_rules.md` không?
+Output: PASS hoặc ISSUES FOUND, mỗi issue theo format Issue / Severity (CRITICAL/MAJOR/MINOR) / Evidence / Suggested fix (giống `system/SKILLS/plot_hole_checker.md`, không dùng điểm số), ghi vào `OUTPUT/reviews/review_report.md`.\n

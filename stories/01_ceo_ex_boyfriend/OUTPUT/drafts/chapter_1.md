@@ -34,9 +34,9 @@ Nhưng Phó Tư Hàn chỉ đưa ly cà phê lên môi, chưa kịp chạm vào 
 
 "Thứ nước nhạt nhẽo, rẻ tiền này..." Chất giọng lạnh lẽo, đầy trào phúng vang lên. Anh dời tầm mắt sang vị đối tác đang đổ mồ hôi hột, chậm rãi bồi thêm: "...Khẩu vị của sếp Lâm cũng thật đặc biệt."
 
-Sắc mặt sếp Lâm lập tức chuyển từ hồng hào sang trắng bệch. Câu nói của Phó Tư Hàn không chỉ chà đạp chất lượng của quán, mà còn trực tiếp tát một cú đau điếng vào thể diện của ông ta. Mọi người đều biết sếp Lâm đang cầu cạnh Tập đoàn Phó Thị để ký một hợp đồng lớn, và Phó Tư Hàn chỉ vừa mới tiếp quản vị trí CEO được vài ngày. 
+Sắc mặt sếp Lâm lập tức chuyển từ hồng hào sang trắng bệch. Câu nói của Phó Tư Hàn không chỉ chà đạp chất lượng của quán, mà còn trực tiếp tát một cú đau điếng vào thể diện của ông ta. Mọi người đều biết sếp Lâm đang cầu cạnh Tập đoàn Thịnh Thế để ký một hợp đồng lớn, và Phó Tư Hàn chỉ vừa mới tiếp quản vị trí CEO được vài ngày. 
 
-Sơ Hạ cắn chặt răng. Cô biết câu nói đó không phải dành cho sếp Lâm. Chữ "rẻ tiền" ấy, là anh đang ném thẳng vào mặt cô. 
+Những ngón tay Sơ Hạ siết chặt lấy quai khay bạc đến trắng bệch. Cô biết câu nói đó không phải dành cho sếp Lâm. Chữ "rẻ tiền" ấy, là anh đang ném thẳng vào mặt cô. 
 
 "Phó... Phó tổng..." Sếp Lâm ấp úng, vội vàng trút giận lên đầu người phục vụ để giữ thể diện. "Cô làm ăn kiểu gì vậy? Có biết pha cà phê không hả?"
 
@@ -46,7 +46,9 @@ Cô vươn tay định thu lại tách cà phê. Phó Tư Hàn chẳng buồn li
 
 Thay vì đặt lên bàn, ngón tay thon dài của anh khẽ nới lỏng. Những tờ tiền mệnh giá cao bay lả tả, hờ hững rải rác xuống nền gỗ ngay sát mũi giày của cô.
 
-Sơ Hạ sững người, đôi tay đang vươn ra cứng đờ giữa không trung. Sự nhục nhã dâng lên tận cổ họng khiến hốc mắt cô nóng ran, nhưng cô bướng bỉnh cắn chặt môi để không rơi nước mắt.
+Sơ Hạ sững người, đôi tay đang vươn ra cứng đờ giữa không trung. Sự nhục nhã dâng lên tận cổ họng khiến hốc mắt cô nóng ran, nhưng cô bướng bỉnh ngẩng cằm, cố nuốt xuống cơn nghẹn để không rơi nước mắt.
+
+Vài bàn khách gần đó khẽ ngừng câu chuyện đang dở, những ánh mắt tò mò len lén liếc về phía cô rồi vội vã quay đi, giả bộ như không hề chứng kiến gì.
 
 "Tiền cà phê, và tiền boa cho sự phục vụ kém cỏi này." Anh cất giọng đều đều, vóc dáng ngồi cao ngạo áp đảo hoàn toàn cô gái nhỏ bé đang cúi gầm mặt trước mặt mình. "Nhặt lên đi."
 

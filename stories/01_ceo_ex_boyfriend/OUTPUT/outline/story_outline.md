@@ -24,10 +24,10 @@ Second chances (Cơ hội thứ hai), Sự hy sinh (Sacrifice), Niềm tin bị 
 
 **7. Main Turning Points (Các điểm bùng nổ cốt truyện):**
 - **Inciting Incident:** Cuộc chạm mặt vô tình tại quán cà phê. Phó Tư Hàn cố tình sỉ nhục Lâm Sơ Hạ nhưng lại không thể rời mắt khỏi cô.
-- **Plot Point 1:** Thẩm Vãn Doanh (nữ phụ) xuất hiện chèn ép nữ chính. Phó Tư Hàn tức điên nhưng lại dùng cách cực đoan (ép nữ chính ký hợp đồng / làm việc cho mình) để giữ cô bên cạnh.
+- **Plot Point 1:** Thẩm Vãn Doanh (nữ phụ) xuất hiện chèn ép nữ chính. Phó Tư Hàn phát hiện Lâm Sơ Hạ vô tình ứng tuyển vào chính công ty mình, liền âm thầm sắp xếp để cô trúng tuyển vị trí Trợ lý riêng mà không để lộ mình đứng sau — một cách "giữ cô bên cạnh" bằng chiếm hữu ngầm thay vì ép buộc công khai.
 - **Midpoint:** Lớp băng hận thù tan chảy trong khoảnh khắc cả hai yếu lòng (First intimacy sau 5 năm). Tình cảm ùa về nhưng nữ chính lập tức sợ hãi đẩy nam chính ra vì nhớ lại sự đe dọa của mẹ anh.
 - **Plot Point 2:** Thẩm Vãn Doanh phát hiện bí mật năm xưa và dùng nó để ép Lâm Sơ Hạ rời đi vĩnh viễn. Nữ chính biến mất.
-- **Climax:** Phó Tư Hàn phát hiện ra chân tướng sự việc 5 năm trước (cuộc nói chuyện vì tiền chỉ là dàn cảnh). Anh hóa điên, lật mặt với gia tộc, hủy hôn và lật đổ Thẩm Vãn Doanh để giành lại Lâm Sơ Hạ.
+- **Climax:** Phó Tư Hàn phát hiện ra chân tướng sự việc 5 năm trước (cuộc nói chuyện vì tiền chỉ là dàn cảnh). Anh hóa điên, lật mặt với gia tộc, hủy hôn và lật đổ Thẩm Vãn Doanh để giành lại Lâm Sơ Hạ. *(Triển khai thành 2 chương: Chương 9 - vạch trần/hủy hôn với Thẩm gia, Chương 10 - đối chất mẹ ruột; xem `chapter_outline.md`.)*
 - **Resolution:** Lời cầu hôn muộn màng và sự chữa lành của hai trái tim.
 
 ---

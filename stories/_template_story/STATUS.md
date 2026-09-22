@@ -1,5 +1,6 @@
 PHASE:
-Idea Analysis
+Phase 1: Phân Tích & Concept
+*(PHASE phải luôn là 1 trong 9 tên Phase ở sơ đồ `README.md` / `system/WORKFLOW/main_workflow.md` — xem `system/RULES/core_rules.md` Rule 8.)*
 
 CURRENT CHAPTER:
 None
@@ -11,4 +12,5 @@ NEXT:
 Run /analyze-idea
 
 OPEN ISSUES:
-None\n
+None
+*(Nếu có tồn đọng thật (thread OPEN trong `MEMORY/unresolved_threads.md`, MEMORY file chưa update...), liệt kê cụ thể ở đây, không để "None" hay câu chung chung — xem Rule 8.)*
