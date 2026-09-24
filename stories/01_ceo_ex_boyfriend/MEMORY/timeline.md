@@ -3,7 +3,8 @@ Theo dõi tiến trình thời gian và các sự kiện chính.
 
 | Chương | Thời điểm | Khoảng cách với chương trước | Ghi chú |
 |---|---|---|---|
-| 1 | Một buổi chiều, quán cà phê L'Étoile | - | Ngày Phó Tư Hàn vừa về nước tiếp quản CEO được vài ngày. |
+| Backstory | ~10-13 năm trước truyện, năm cả hai học cấp hai | - | Phó Tư Hàn bị gửi về quê Sơ Hạ lánh nạn tranh giành quyền thừa kế, bị bắt nạt và được Sơ Hạ giúp đỡ; hai người thân thiết rồi nảy sinh tình cảm. Vài năm sau, con trai bà cả qua đời vì bệnh, cha anh đón anh về thành phố. (Được Sơ Hạ hồi tưởng ngắn gọn ở đầu Chương 2 — xem `MEMORY/story_bible.md`.) |
+| 1 | Một buổi chiều, quán cà phê (không nêu tên quán) | - | Ngày Phó Tư Hàn vừa về nước tiếp quản CEO được vài ngày. |
 | 2 | Tối cùng ngày, 22h | Vài giờ sau Chương 1 | Cảnh bắt cóc lúc tan tầm. Cùng tối đó (chưa dựng cảnh, chỉ là canon nền), Sơ Hạ nhận được cuộc gọi báo trúng tuyển vị trí Trợ lý riêng — do Phó Tư Hàn âm thầm sắp xếp; chi tiết được Sơ Hạ hồi tưởng lại ở đầu Chương 3. |
 | 3 | Sáng hôm sau, 8h | Khoảng 9-10 tiếng sau Chương 2 | Ngày đầu Sơ Hạ nhận việc. |
 

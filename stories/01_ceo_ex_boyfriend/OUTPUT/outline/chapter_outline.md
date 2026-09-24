@@ -25,8 +25,8 @@
 - **Purpose:** Bộc lộ sự ghen tuông bệnh hoạn và tính chiếm hữu của Phó Tư Hàn.
 - **POV:** Ngôi thứ ba giới hạn (Tập trung vào Phó Tư Hàn).
 - **Setting:** Bên ngoài quán cà phê lúc tan tầm / Trong xe sang của Phó Tư Hàn.
-- **Characters:** Phó Tư Hàn, Lâm Sơ Hạ, Lục Ngôn (chủ quán cà phê), Thư ký Trần.
-- **Main event:** Phó Tư Hàn ngồi trong xe âm thầm theo dõi Lâm Sơ Hạ. Thấy cô được Lục Ngôn che ô quan tâm, anh mất kiểm soát, lao ra kéo cô lên xe. *(Nền, không dựng cảnh trên trang giấy — sẽ được Sơ Hạ hồi tưởng ở đầu Chương 3):* cùng tối đó, Sơ Hạ nhận được cuộc gọi báo trúng tuyển vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế — nơi cô đã phỏng vấn vài hôm trước mà không biết đây chính là công ty của Phó Tư Hàn; buổi phỏng vấn thực chất chỉ mang tính hình thức vì anh đã âm thầm chỉ đạo Thư ký Trần đảm bảo cô trúng tuyển, giấu kín việc mình đứng sau.
+- **Characters:** Phó Tư Hàn, Lâm Sơ Hạ, Đồng nghiệp nam (không đặt tên riêng, pha chế cùng quán cà phê), Thư ký Trần.
+- **Main event:** Phó Tư Hàn ngồi trong xe âm thầm theo dõi Lâm Sơ Hạ. Thấy cô được người đồng nghiệp che ô quan tâm, anh mất kiểm soát, lao ra kéo cô lên xe. *(Nền, không dựng cảnh trên trang giấy — sẽ được Sơ Hạ hồi tưởng ở đầu Chương 3):* cùng tối đó, Sơ Hạ nhận được cuộc gọi báo trúng tuyển vị trí Trợ lý riêng tại Tập đoàn Thịnh Thế — nơi cô đã phỏng vấn vài hôm trước mà không biết đây chính là công ty của Phó Tư Hàn; buổi phỏng vấn thực chất chỉ mang tính hình thức vì anh đã âm thầm chỉ đạo Thư ký Trần đảm bảo cô trúng tuyển, giấu kín việc mình đứng sau.
 - **Conflict:** Sự kháng cự của Lâm Sơ Hạ vs sức mạnh ép buộc của Phó Tư Hàn.
 - **Emotional objective:** Căng thẳng tột độ, nghẹt thở vì tính chiếm hữu.
 - **Relationship progression:** Sự va chạm vật lý đầu tiên. Ranh giới hận thù và dục vọng bắt đầu nhạt nhòa.
